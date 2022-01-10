@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Alt](https://repobeats.axiom.co/api/embed/5b7bd001e11b212215df374eedcfdc3e414c4793.svg "Repobeats analytics image")
+
 <!--
 **like-ycy/like-ycy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

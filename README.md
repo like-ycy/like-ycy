@@ -5,6 +5,8 @@
 
 ![renran_api](https://repobeats.axiom.co/api/embed/b86ad892149c2f7b4c8045e261f3692886ee5eb7.svg "Repobeats analytics image")
 
+![Alt](https://repobeats.axiom.co/api/embed/c258da614987125d44270a9dfa6c3bb68d3acf45.svg "Repobeats analytics image")
+
 <!--
 **like-ycy/like-ycy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

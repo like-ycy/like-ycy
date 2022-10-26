@@ -24,6 +24,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=like-ycy&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/like-ycy/repos?time_range=one_year&theme=classic)](https://githubtrends.io)
